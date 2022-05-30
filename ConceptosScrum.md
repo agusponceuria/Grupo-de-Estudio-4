@@ -1,4 +1,4 @@
-#Aquì vamos a depositar informaciòn/conceptor desde el material de SCRUM.
+#Aquì vamos a depositar informaciòn/conceptos desde el material de SCRUM.
 
 
 #CEREMONIAS:
