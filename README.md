@@ -7,7 +7,7 @@
 ### :woman_technologist: Integrantes :
 
 -
--
+- Eric Paiz
 - Germán Ponce 
 - Eduardo Wentancur
 - Agustina Ponce Uria
