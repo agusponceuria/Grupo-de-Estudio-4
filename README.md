@@ -9,7 +9,7 @@
 -
 -
 - 
-- <a href="https://github.com/eduwentancur" target="_blank">Eduardo Wentancur</a>
+- Eduardo Wentancur
 -
 -
 -
@@ -17,4 +17,4 @@
 -
 -
 
-<
+
