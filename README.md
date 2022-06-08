@@ -11,9 +11,9 @@
 - Germán Ponce 
 - Eduardo Wentancur
 - Agustina Ponce Uria
--Daniel Ontivero
+- Daniel Ontivero
 - Facundo Oroná 
--
+- Federico Quevedo
 -
 -
 
