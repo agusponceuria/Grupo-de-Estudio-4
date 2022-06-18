@@ -5,8 +5,8 @@
 	#Es decir, aunque la operación se realice entre números enteros, siempre el resutado será del tipo flotante.
 	
 	#Ejemplo: 
-		#a = 4
-		#b = 2
-		#c = 4 / 2
-		#print(c)
-		#El resultado es 2.0
+		a = 4
+		b = 2
+		c = 4 / 2
+		print(c)
+		El resultado es 2.0
