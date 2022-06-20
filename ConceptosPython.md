@@ -4,7 +4,7 @@
 
 #FUNCIÓN PRINT
 
-print("¡Hola, Mundo!") --> Para escribir texto debemos de colocar la función PRINT seguido de paréntesis que abre, comilla, signo de exclamación, texto, signo de exclamación que cierra, comilla, paréntesis que cierra.
+print("Hola, Mundo") --> Para escribir texto debemos de colocar la función PRINT seguido de paréntesis que abre, comilla, texto, comilla, paréntesis que cierra.
 
 
 
