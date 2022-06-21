@@ -34,13 +34,14 @@ print("Hola, Mundo") --> Para escribir texto debemos de colocar la función PRIN
 
 
 
-#Ciclo **For** de Python itera sobre los ítems de cualquier secuencia (una lista o una cadena de texto), en el orden que aparecen en la secuencia. Por ejemplo:
-					Mochila = ['Cartuchera', 'Libro', 'Carpeta']
-					for m in Mochila:
-						print(m)
+#Ciclo **For** de Python itera sobre los ítems de cualquier secuencia (una lista o una cadena de texto), en el orden que aparecen en la secuencia. 	Ejemplo:
+					
+		Mochila = ['Cartuchera', 'Libro', 'Carpeta']
+		for m in Mochila:
+			print(m)
 	
 Lo siguiente que imprime en pantalla es:
-					Cartuchera
-					Libro
-					Carpeta
+>					Cartuchera
+>					Libro
+>					Carpeta
 					
