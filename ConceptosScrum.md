@@ -17,7 +17,13 @@ y creativa con el máximo valor.
 
 
 
-#ARTEFACTOS:
+#ARTEFACTOS: 
+El Backlog del Producto es la instancia donde el Dueño del Producto (product owner), presenta al Scrum Team los requerimientos del software que desea implementar. Estos requerimientos o ítems traen consigo criterios de aceptación, que el Producto Owner especifica, como condiciones necesarias para que el software que se está desarrollando satisfaga sus necesidades. El Backlog del Producto es en definitiva la pauta de trabajo para el Scrum Team, y únicamente el Product Owner lo puede crear, y cambiar también, durante el proceso de desarrollo.
+
+El Backlog de Sprint es la instancia en que los requerimientos planteados en el Backlog de Producto se planifican como tareas a desarrollar durante el Sprint. Los ítems allí señalados deben desmembrarse en unidades mínimas de tareas específicas. Luego, éstas tareas se sitúan/presentan en un Tablero de Scrum (Scrum Taskboard), que consta de tres columnas: Pendientes, en curso y terminadas. De este modo se realiza un seguimiento minucioso del desarrollo plateado por el Srcum Team para ese Sprint, de principio a fin.
+
+Incremento. Es la instancia en que el Srcum Team entrega al Product Owner los resultados del trabajo desarrollado durante ese Sprint. Esta presentación funciona como prueba de uso del desarrollo logrado en el Sprint, ya que debe mostrarse en modo de software funcionando. Puede entenderse como un micro software, que funciona en una prueba de uso, y que aspira a cumplir de manera efectiva y real con los requisitos planteados en el Backlog de Producto que se elaboró como disparador del Sprint que se ha cerrado.
+
 
 
 
