@@ -6,7 +6,7 @@
 
 ### :woman_technologist: Integrantes :
 
--
+-  Gabriel Orellana
 - Eric Paiz
 - Germán Ponce 
 - Eduardo Wentancur
