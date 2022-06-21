@@ -17,3 +17,13 @@ print("Hola, Mundo") --> Para escribir texto debemos de colocar la función PRIN
 		c = 4 / 2
 		print(c)
 		El resultado es 2.0
+
+#CARACTER DE SALTO DE LINEA (\n): Cuando en una cadena de texto insertamos estos dos caracteres: \n, producimos un salto de línea en el texto. Hay dos aspectos clave a tener en cuenta en el uso de esta función: el caracter barra que se usa no es el mismo que usamos para dividir. Veamos que la inclinación de la barra está en sentido inverso al de la barra de dividir. Y, otro dato clave, es que estos dos caracteres se insertan directamente y sin agregar nada más, en la cadena de texto que queremos intervenir.
+
+	Ejemplo: 
+		print("Qué lindo día es hoy")
+		Resultado: Qué lindo día es hoy
+		
+		print("Qué lindo día\nes hoy")
+		Resultado: Qué lindo día
+			   es hoy
