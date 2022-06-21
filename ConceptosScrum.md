@@ -79,7 +79,8 @@ Los stakeholders son todas las personas u organizaciones que tienen una relació
 
 Todos los roles de Scrum son imprescindibles para crear el producto del proyecto, y son los responsables del éxito de cada sprint y del proyecto en su totalidad. Por eso el primer paso tras asignar las funciones de cada persona es definir qué debe hacer cada integrante del equipo. Que todos los involucrados entiendan cómo el alcance de su rol ayudará a que se cumplan eficientemente los objetivos marcados.
 
-#Pilares de Scrum
+
+**#Pilares de Scrum**
 
 Transparencia, inspección y adaptación
 
