@@ -79,9 +79,18 @@ Los stakeholders son todas las personas u organizaciones que tienen una relació
 
 Todos los roles de Scrum son imprescindibles para crear el producto del proyecto, y son los responsables del éxito de cada sprint y del proyecto en su totalidad. Por eso el primer paso tras asignar las funciones de cada persona es definir qué debe hacer cada integrante del equipo. Que todos los involucrados entiendan cómo el alcance de su rol ayudará a que se cumplan eficientemente los objetivos marcados.
 
+#Pilares de Scrum
 
+Transparencia, inspección y adaptación
 
+1. Transparencia: Implica dar visibilidad a los aspectos significativos del proceso a todo aquel responsable del resultado, la transparencia tiene
+como objeto que estos aspectos sean definidos en base a un estandar comun, para lograr un entendimiento con los observadores.
 
+2. Inspección: Scrum promueve la inspeccion frecuente de los artefactos, los usuarios de Scrum deben inspeccionar los artefactos y el progreso
+hacia un objetivo para detectar variaciones indeseadas. Su inspección no debe ser tan frecuente como para que pueda inferir en el trabajo. 
+Las inspecciones son mas productivas cuando es aplicada por inspectores expertos en el lugar de trabajo.
 
-
-
+3. Adaptación: La adaptacion implica hacer ajustes en los procesos y artefactos para minimizar la desviación. Es la capcadidad de adaptarse en
+funcion de los resultados de la inspección, cambiar para mejorar.
+Si un inspector determina qeu uno o mas aspectos de un proceso se desvían de los limites aceptables y que el producto será inaceptable, el proceso 
+o el material que esta siendo procesado deben ajustarse, dicho ajuste deberá realizarse cuanto antes para minimizar desviaciones.
