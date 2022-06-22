@@ -34,7 +34,7 @@ print("Hola, Mundo") --> Para escribir texto debemos de colocar la función PRIN
 
 
 
-#Ciclo **For** de Python itera sobre los ítems de cualquier secuencia (una lista o una cadena de texto), en el orden que aparecen en la secuencia. 	Ejemplo:
+#Ciclo <a href="https://docs.python.org/es/3/tutorial/controlflow.html#for-statements">for</a> de Python itera sobre los ítems de cualquier secuencia (una lista o una cadena de texto), en el orden que aparecen en la secuencia. 	Ejemplo:
 					
 		Mochila = ['Cartuchera', 'Libro', 'Carpeta']
 		for m in Mochila:
@@ -45,3 +45,15 @@ Lo siguiente que imprime en pantalla es:
 >					Libro
 >					Carpeta
 					
+Si usamos el ciclo **for** mas la funcion integrada <a href="https://docs.python.org/es/3/library/stdtypes.html#range">Range()</a>podemos mostrar en consola una secuencia de numeros.Ejemplo:
+
+		for i in range(4):			
+			print(i)
+
+Lo que imprime es :
+>			0
+>			1
+>			2
+>			3
+			
+			
