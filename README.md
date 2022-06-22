@@ -6,7 +6,7 @@
 
 ### :woman_technologist: Integrantes :
 
--  Gabriel Orellana
+- Gabriel Orellana
 - Eric Paiz
 - Germán Ponce 
 - Eduardo Wentancur
@@ -15,6 +15,6 @@
 - Facundo Oroná 
 - Federico Quevedo
 - Victor Polo
--
+- Bárbara Paez Sueldo
 
 
