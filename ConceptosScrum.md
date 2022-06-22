@@ -86,13 +86,13 @@ Todos los roles de Scrum son imprescindibles para crear el producto del proyecto
 Transparencia, inspección y adaptación
 
 1. Transparencia: Implica dar visibilidad a los aspectos significativos del proceso a todo aquel responsable del resultado, la transparencia tiene
-como objeto que estos aspectos sean definidos en base a un estandar comun, para lograr un entendimiento con los observadores.
+como objeto que estos aspectos sean definidos en base a un estándar común, para lograr un entendimiento con los observadores.
 
-2. Inspección: Scrum promueve la inspeccion frecuente de los artefactos, los usuarios de Scrum deben inspeccionar los artefactos y el progreso
-hacia un objetivo para detectar variaciones indeseadas. Su inspección no debe ser tan frecuente como para que pueda inferir en el trabajo. 
-Las inspecciones son mas productivas cuando es aplicada por inspectores expertos en el lugar de trabajo.
+2. Inspección: Scrum promueve la inspección frecuente de los artefactos, los usuarios de Scrum deben inspeccionar los artefactos y el progreso
+hacia un objetivo para detectar variaciones indeseadas. Su inspección no debe ser tan frecuente como para que pueda influir en el trabajo. 
+Las inspecciones son más productivas cuando son aplicadas por inspectores expertos en el lugar de trabajo.
 
-3. Adaptación: La adaptacion implica hacer ajustes en los procesos y artefactos para minimizar la desviación. Es la capcadidad de adaptarse en
-funcion de los resultados de la inspección, cambiar para mejorar.
-Si un inspector determina que uno o mas aspectos de un proceso se desvían de los limites aceptables y que el producto será inaceptable, el proceso 
-o el material que esta siendo procesado deben ajustarse, dicho ajuste deberá realizarse cuanto antes para minimizar desviaciones.
+3. Adaptación: La adaptación implica hacer ajustes en los procesos y artefactos para minimizar la desviación. Es la capacidad de adaptarse en
+función de los resultados de la inspección, cambiar para mejorar.
+Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto será inaceptable, el proceso 
+o el material que está siendo procesado deben ajustarse, dicho ajuste deberá realizarse cuanto antes para minimizar desviaciones.
