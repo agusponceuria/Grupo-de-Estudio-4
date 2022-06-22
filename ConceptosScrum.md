@@ -1,7 +1,9 @@
 #Aquí vamos a depositar información/conceptos desde el material de SCRUM.
 
 
-#·Definición de Scrum·
+<h1 align="center">Metodologia Scrum</h1>
+
+# Definición de Scrum:
 
 Es un marco de trabajo a través del cual 
 las personas pueden abordar problemas
@@ -9,15 +11,18 @@ complejos adaptativos, a la vez que se
 entregan productos de forma eficiente
 y creativa con el máximo valor.
 
-
-
-
-#CEREMONIAS: Las ceremonias de Scrum son practicas que definen a la metodologia Scrum y fueron diseñadas para ofrecer resultados. Son reuniones que tienen lugar en las iteraciones o "sprints". Son 4 y siguen un orden en cascada: 1era Sprint Planning: Tiene lugar al comienzo del Sprint, por lo general es una hora por cada semana de Sprint; 2da Daily Scrum: Debe realizarse, al menos, una vez por dia, preferentemente por la mañana, no deberia durar mas de 15 minutos; 3ra Sprint Review: Es un momento dedicado a mostrar el trabajo completado durante el Sprint a las partes interesadas. De esta forma, las partes interesadas pueden ver cómo van las cosas y dedicarse a inspeccionar o adaptar el producto; 4ta Sprint Retrospective: Se realiza al final para que el equipo pueda mirar hacia atrás en su trabajo e identificar elementos que podrían mejorarse. La reunión no deberá tener una duración mayor a 2 horas por cada Sprint de dos semanas.
+La metodología Scrum es un proceso para llevar a cabo un conjunto de tareas de forma regular con el objetivo principal de trabajar de manera colaborativa, es decir, para fomentar el trabajo en equipo. Con este método de trabajo lo que se pretende es alcanzar el mejor resultado de un proyecto determinado
 
 
 
 
-#ARTEFACTOS: 
+# CEREMONIAS: 
+Las ceremonias de Scrum son practicas que definen a la metodologia Scrum y fueron diseñadas para ofrecer resultados. Son reuniones que tienen lugar en las iteraciones o "sprints". Son 4 y siguen un orden en cascada: 1era Sprint Planning: Tiene lugar al comienzo del Sprint, por lo general es una hora por cada semana de Sprint; 2da Daily Scrum: Debe realizarse, al menos, una vez por dia, preferentemente por la mañana, no deberia durar mas de 15 minutos; 3ra Sprint Review: Es un momento dedicado a mostrar el trabajo completado durante el Sprint a las partes interesadas. De esta forma, las partes interesadas pueden ver cómo van las cosas y dedicarse a inspeccionar o adaptar el producto; 4ta Sprint Retrospective: Se realiza al final para que el equipo pueda mirar hacia atrás en su trabajo e identificar elementos que podrían mejorarse. La reunión no deberá tener una duración mayor a 2 horas por cada Sprint de dos semanas.
+
+
+
+
+# ARTEFACTOS: 
 El Backlog del Producto es la instancia donde el Dueño del Producto (product owner), presenta al Scrum Team los requerimientos del software que desea implementar. Estos requerimientos o ítems traen consigo criterios de aceptación, que el Producto Owner especifica, como condiciones necesarias para que el software que se está desarrollando satisfaga sus necesidades. El Backlog del Producto es en definitiva la pauta de trabajo para el Scrum Team, y únicamente el Product Owner lo puede crear, y cambiar también, durante el proceso de desarrollo.
 
 El Backlog de Sprint es la instancia en que los requerimientos planteados en el Backlog de Producto se planifican como tareas a desarrollar durante el Sprint. Los ítems allí señalados deben desmembrarse en unidades mínimas de tareas específicas. Luego, éstas tareas se sitúan/presentan en un Tablero de Scrum (Scrum Taskboard), que consta de tres columnas: Pendientes, en curso y terminadas. De este modo se realiza un seguimiento minucioso del desarrollo plateado por el Srcum Team para ese Sprint, de principio a fin.
@@ -30,10 +35,11 @@ Incremento. Es la instancia en que el Srcum Team entrega al Product Owner los re
 
 
 
-#ROLES:Un equipo scrum acostumbra a estar conformado por un equipo de desarrollo de unas 3 a 9 personas, más el Scrum Master y el Product Owner.
+# ROLES:
+Un equipo scrum acostumbra a estar conformado por un equipo de desarrollo de unas 3 a 9 personas, más el Scrum Master y el Product Owner.
 
 
-#Product Owner
+- Product Owner
 El Product Owner optimiza y maximiza el valor del producto. Decide qué trabajo hay que hacer y también se encarga de la interlocución con los stakeholders. Es la persona que se focaliza en la parte de negocio y es responsable del ROI del proyecto.
 
 *Se resume en 3 funciones clave:*
@@ -46,7 +52,7 @@ Intraemprendedor: Debe ser un Product Manager ágil, que sea capaz de medir el v
 
 
 
-#Scrum Master
+- Scrum Master
 Es la persona que lidera al equipo con el objetivo de que entiendan exactamente qué es la metodología Scrum y puedan cumplir las reglas y usar los procesos de la metodología de la mejor manera posible. Se encarga de las labores de mentoring, coaching y formación, y de facilitar reuniones y eventos y traslada la visión general del proyecto al equipo. Pero no solo esto, sino que también trabaja junto al Product Owner en la parte de negocio que busca maximizar el ROI.
 
 Las funciones del Scrum Master se resumen en dos grandes tareas:
@@ -59,14 +65,14 @@ Un mismo Scrum Master puede compartirse entre varios equipos, pero es importante
 
 
 
-#Scrum Team (equipo scrum)
+- Scrum Team (equipo scrum)
 Es el grupo de personas que tienen los conocimientos técnicos necesarios para desarrollar un proyecto de forma conjunta. Su trabajo se realiza a base de sprints, que son acciones concretas a realizar en periodos de tiempo pequeño, de una a cuatro semanas aproximadamente, con preferencia por los intervalos más cortos posibles. En cada uno de esos sprints el equipo construye y entrega un incremento o una mejora del producto.
 
 Los equipos suelen estar formados por entre 3 y 9 personas que se autoorganizan para desarrollar y mejorar un producto. Para obtener los mejores resultados es importante que todos los miembros del Scrum Team conozcan sus roles internos. Pero para que la metodología Scum tenga éxito es imprescindible que el equipo de desarrollo tenga la capacidad de autogestionarse a nivel interno, rindiendo cuentas como un solo equipo y sin que haya intervención en sus dinámicas.
 
 
 
-#Stakeholders
+- Stakeholders
 Los stakeholders son todas las personas u organizaciones que tienen una relación directa o indirecta con el proyecto, y que pueden verse beneficiados o perjudicados en cualquier momento. Los podríamos separar en dos grandes grupos.
 
 1. Stakeholders primarios
@@ -81,7 +87,7 @@ Todos los roles de Scrum son imprescindibles para crear el producto del proyecto
 
 
 
-**#Pilares de Scrum**
+# Pilares de Scrum:
 
 Transparencia, inspección y adaptación
 
@@ -96,3 +102,6 @@ Las inspecciones son más productivas cuando son aplicadas por inspectores exper
 función de los resultados de la inspección, cambiar para mejorar.
 Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto será inaceptable, el proceso 
 o el material que está siendo procesado deben ajustarse, dicho ajuste deberá realizarse cuanto antes para minimizar desviaciones.
+
+
+![Image text](https://hondurasdigitalchallenge.com/wp-content/uploads/2020/05/Desarrollor-Scrum-1024x576.jpg)
