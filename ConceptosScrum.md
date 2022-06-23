@@ -106,7 +106,7 @@ o el material que está siendo procesado deben ajustarse, dicho ajuste deberá r
 
 ![Image text](https://hondurasdigitalchallenge.com/wp-content/uploads/2020/05/Desarrollor-Scrum-1024x576.jpg)
 
-# Etapas de Scrum
+# ETAPAS DEL SCRUM
 
 Para entender mejor cómo se gestiona este método, la clave es conocer cuáles son sus principales etapas. El Scrum está basado en sprints, intervalos establecidos que plantea la empresa para generar un producto entregable. En cada uno de ellos se desarrollan miniproyectos que sirven para mejorar la eficacia del proyecto principal. Estas son las principales etapas del Scrum:
 
