@@ -110,7 +110,7 @@ o el material que está siendo procesado deben ajustarse, dicho ajuste deberá r
 
 Para entender mejor cómo se gestiona este método, la clave es conocer cuáles son sus principales etapas. El Scrum está basado en sprints, intervalos establecidos que plantea la empresa para generar un producto entregable. En cada uno de ellos se desarrollan miniproyectos que sirven para mejorar la eficacia del proyecto principal. Estas son las principales etapas del Scrum:
 
-# 1. Planificación del sprint
+<em>1. Planificación del sprint</em>
 Si entendemos el significado del sprint como un miniproyecto dentro del proyecto principal, cada uno de ellos tiene un objetivo en particular. Por ejemplo, el primer intervalo puede ser plantear cuál será el presupuesto general a utilizar, por lo que se necesitará de un equipo de profesionales expertos en el tema económico.
 En la primera reunión del equipo se definirán aspectos como la funcionalidad, objetivos, riesgos del sprint, plazos de entrega, entre otros. Posteriormente se realiza una junta entre el equipo y el jefe del proyecto para explicar cómo se desarrollará cada punto del intervalo. Aquí se evaluarán cambios, toma de decisiones, mejoras y más factores.
 
