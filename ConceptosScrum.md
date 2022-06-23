@@ -131,5 +131,6 @@ Al final del desarrollo del intervalo, es posible analizar y evaluar los resulta
 
 <em><b>4. Retroalimentación:
   </b></em>
+  
 Los resultados pueden ser entregados para recibir un feedback no solo por parte de los profesionales dentro del proyecto, sino también de las personas que utilizarán directamente lo que se desea lograr; es decir, los clientes potenciales. Las lecciones aprendidas durante esta etapa permitirán que el siguiente sprint pueda ser mucho más efectivo y ágil.
 La metodología Scrum no se utiliza en todos los casos. Se emplea cuando la empresa posee los recursos disponibles, la madurez y experiencia del equipo encargado, una estructura organizacional ágil e innovadora, entre otros factores. Contar con un profesional que asegure estos principios será el primer paso.
