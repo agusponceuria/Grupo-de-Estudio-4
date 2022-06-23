@@ -110,14 +110,17 @@ o el material que está siendo procesado deben ajustarse, dicho ajuste deberá r
 
 Para entender mejor cómo se gestiona este método, la clave es conocer cuáles son sus principales etapas. El Scrum está basado en sprints, intervalos establecidos que plantea la empresa para generar un producto entregable. En cada uno de ellos se desarrollan miniproyectos que sirven para mejorar la eficacia del proyecto principal. Estas son las principales etapas del Scrum:
 
-<em>1. Planificación del sprint</em>
+<em><b>1. Planificación del sprint:</b></em>
+
 Si entendemos el significado del sprint como un miniproyecto dentro del proyecto principal, cada uno de ellos tiene un objetivo en particular. Por ejemplo, el primer intervalo puede ser plantear cuál será el presupuesto general a utilizar, por lo que se necesitará de un equipo de profesionales expertos en el tema económico.
 En la primera reunión del equipo se definirán aspectos como la funcionalidad, objetivos, riesgos del sprint, plazos de entrega, entre otros. Posteriormente se realiza una junta entre el equipo y el jefe del proyecto para explicar cómo se desarrollará cada punto del intervalo. Aquí se evaluarán cambios, toma de decisiones, mejoras y más factores.
 
-# 2. Etapa de desarrollo
+<em><b>2. Etapa de desarrollo:</b></em>
+  
 Cuando el trabajo del sprint está en curso, los encargados deben garantizar que no se generen cambios de último momento que puedan afectar los objetivos del mismo. Además, se asegura el cumplimiento de los plazos establecidos para su término.
 
-# 3. Revisión del sprint
+<em><b>3. Revisión del sprint:</b></em>
+
 Al final del desarrollo del intervalo, es posible analizar y evaluar los resultados. Si es necesario, todo el equipo colaborará para saber qué aspectos necesitan ser cambiados. En esta fase se fomenta la colaboración y retroalimentación entre todos. Se incluyen los siguientes puntos:
 •	Colaboración entre equipos, supervisores, jefes y dueños de productos.
 •	Se admiten análisis externos como forma de complementación.
@@ -126,6 +129,7 @@ Al final del desarrollo del intervalo, es posible analizar y evaluar los resulta
 •	La revisión incluye cómo, hasta ahora, el producto podría generar más valor.
 •	Se analizan las capacidades del equipo, la línea de tiempo, entre otros detalles, para saber qué potenciar.
 
-# 4. Retroalimentación
+<em><b>4. Retroalimentación:
+  </b></em>
 Los resultados pueden ser entregados para recibir un feedback no solo por parte de los profesionales dentro del proyecto, sino también de las personas que utilizarán directamente lo que se desea lograr; es decir, los clientes potenciales. Las lecciones aprendidas durante esta etapa permitirán que el siguiente sprint pueda ser mucho más efectivo y ágil.
 La metodología Scrum no se utiliza en todos los casos. Se emplea cuando la empresa posee los recursos disponibles, la madurez y experiencia del equipo encargado, una estructura organizacional ágil e innovadora, entre otros factores. Contar con un profesional que asegure estos principios será el primer paso.
