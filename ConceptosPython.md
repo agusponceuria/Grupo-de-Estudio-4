@@ -112,4 +112,42 @@ else:
 
 La sentencia else tiene la ventaja de mantener el mismo nombre y la misma sintaxis que en las demás estructuras de control.
 
+<h1 align="center">Tipos de datos</h1>
+
+El tipo de los datos indican a la computador y al programador sobre la clase de datos que se va a manejar, existen 4 tipos de datos y son:
+>               Enteros 
+>               Flotantes
+>               Cadenas 
+>               Booleanos
+
+# Enteros
+Los números enteros, son aquellos que no tienen decimales o parte fracionaria ya sea positiva o negativa, en python se representan con el atributo *int*.
+Ejemplo_1:
+>             numero = 10
+>             print(numero, type(numero))
+Por consiguiente esto me mostrará que "10" es un tipo de dato entero (int)
+>             10 <class 'int'>
+# Flotantes
+Son los números que tienen o son capaces de tener parte fraccionaria o decimal tanto positiva como negativa, y en python se expresan mediante el atributo *float*.
+Ejemplo_2:
+>             numero_flotante = 0.22
+>             print(numero_flotante, type(numero_flotante))
+Del código del ejemplo2 nos mostrará en la consola que el número "0.22" es del tipo (float)
+>             0.22 <class 'float'>
+# Cadenas
+Las cadenas son básicamente texto escrito entre comillas simples o dobles, tambien son conocidas como *strings*. 
+Ejemplo_3:
+>             cadena = "Papas con queso"
+>             print(cadena, type(cadena))
+Aqui como venimos viendo tambien nos dirá en pantalla que la cadena "Papas con queso" es del tipo "str" (string).
+>             Papas con queso <class 'str'>
+# Booleanos
+Este tipo de datos hace uso de 2 valores *verdadero* o *falso* siendo 1 si es verdadero o 0 si es falso, los booleanos se emplean para representar un valor de veracidad.
+Ejemplo_4 
+>             booleano = 0.22 == 10
+>             print(booleano, type(booleano))
+En este ejemplo declaramos en la variable "booleano" la igualación de 2 números distintos uno flotante y otro entero para que en la consola nos indique si la igualación es verdadera o falsa y tambien que nos muestre el tipo de de dato que nos muestra.
+>             False <class 'bool'>
+Por consiguiente lo que nos muestra en la consola es correcto, la declaracion es falsa y el tipo de dato es "bool" (booleano)
+
 
