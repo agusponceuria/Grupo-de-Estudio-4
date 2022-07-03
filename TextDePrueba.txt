@@ -1,0 +1,63 @@
+* Que es una lista, un hashset, hashmap. Diferencias y Orden de ejecucion de sus algoritmos principales.
+* Cómo solucionar colisiones infinitas en un hash.
+* En que situacion usaria una estructura de pila.
+* Orden de la búsqueda de un elemento en un hash.
+* Que es CORS?
+* Que es SOLID?
+* Que es una clase?
+* Que es un objeto?
+* Que es polimorfismo?
+* Que es sobrecarga?
+* Que es una clase abstracta?, Que es una interfaz?, que diferencia hay entre una clase abstracta y una interfaz?
+* Como haría un sistema que tiene que guardar elementos, encontrar el mayor de todos y poder retornar todos los elementos.
+* Como es el proceso en el cual se pushea codigo al repositorio, no arruine todo el sistema que ya está funcionando?
+* Si tuviera que hacer una web muy compleja como haría?
+* Que diferencia hay entre un http post y un http get? Por donde van los parámetros en uno y en otro?
+* Conta de una vez que tuviste un deadline muy apretado, como hiciste para cumplirlo. Si no lo cumpliste, como resolviste la situacion.
+* Diferencia entre dom y html.
+* Diferencia entre div y span.
+* Feature favorito de js ES6, justificar por que.
+* Que son los hooks? cuales use, donde y por que?
+* Que es redux? Para que sirve?
+* Que le agregaria a js?
+* Diferencias entre BD relacional y no relacional, cuando usaría una y cuando otra.
+* Cómo funciona node? Hablar de event loop, single thread, callbackstack.
+* Diferencias entre Angular y React.
+* Cuando usar un memo / useCallback y cuando no
+* Que es el useContext, cuando y como se usa. Cuando no usarlo. Por que no usarlo.
+* Que es redux, como se hace una petición desde un componente a una api pasando por redux. Diferencias entre useContext.
+* Cual es el problema los css.module en react.
+* Como se uplodea una imagen desde el front hasta el aws s3 bucket.
+* Que librerias graficas use, cuándo usaría alguna u otra.
+* Que es Sass, que beneficios trae.
+* Se dice que React es mas facil de leer y entender que otros frameworks js, por que?.
+* Que es una arquitectura de microservicios? Cuando y por que use una? que beneficios trajo respecto a una arquitectura tradicional?
+* Diferencia entre const, let y var.
+* Hablar del scope de las variables y funciones en js.
+* Diferencia entre null y undefined en js.
+* Cuales son las ventajas que creo yo que tiene ts sobre js.
+* Diferencia entre == y === en js.
+* Explicar como funciona react.
+* Diferencia entre el dom real y el dom virtual.
+* Explicar el ciclo de vida de componentes de react.
+* Que son los high order components.
+* Explicar distintas maneras de enviar props a los componentes, ventajas y desventajas de cada una.
+* Que observo cuando hago un codereview?
+* Cómo hago para mantener calidad en el código.
+* Que es el pool thread? 
+* Explicar con algún ejemplo el uso de un load balancer.
+* Que beneficios nos trae nextJs, por qué usarlo?
+* Cómo se definen las url dinámicas en nextjs? para qué sirven? Citar un ejemplo.
+* Cuál fue el desafío más grande que tuve con React.
+* Disenar una interfaz identificando componentes claves para una app de conversion de unidades, metros a yardas, km a millas…
+* Hacer en JS una función para saber si dos palabras son anagramas.
+* Que es una rest API, como se define una rest API.
+* Que es una arquitectura monolítica y que es una arquitectura de microservicios. Pros y contras.
+* Cómo se comunican los distintos servicios en una arquitectura de microservicios.
+* Puede dos microservicios compartir las bases de datos? por que es una mala práctica.
+* Nombrar todas las partes de redux y su funcion.
+* Diferencia entre mandar los parámetros de una petición a una api por header y crear un nuevo endpoint.
+* Cuales son las partes del useEffect, para que sirve.
+* Armar un algoritmo eficiente para calcular camino más corto entre nodo A y nodo B en un grafo.
+* Armar un algoritmo eficiente para mergear K listas ordenadas de manera ascendiente: https://leetcode.com/problems/merge-k-sorted-lists/
+* Disenar en un pizarron el juego de la batalla naval.
